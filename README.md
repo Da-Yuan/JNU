@@ -15,3 +15,11 @@ matlab -nojvm -nodesktop -nodisplay -r excel
 ```
 pythonw data_picker_91job_for_teacher.py
 ```
+
+## weekly_excel.py
+
+和上面的`excel.m`功能一致。
+
+```
+python weekly_excel -begin_date 2018-05-12 -end_date 2018-05-25
+```
